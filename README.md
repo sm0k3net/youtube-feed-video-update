@@ -1,2 +1,4 @@
 # youtube-feed-video-update
-utomated video update from youtube feed
+automated video update from youtube feed
+
+Automated video update from youtube feed xml file with php simplexml_load_file
